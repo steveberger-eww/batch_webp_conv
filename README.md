@@ -16,5 +16,3 @@ maybe ( -> add account creation / login / user dashboard )
 - could be i have forgotten something, i'm going to add that later
 
 ## See ya!
-
-[![That's all Folks!]](https://commons.wikimedia.org/wiki/File:Thats_all_folks.svg)
